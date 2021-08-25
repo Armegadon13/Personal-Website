@@ -1,6 +1,8 @@
 body {
     margin: 0;
     padding-top: 800px;
+    text-align: center;
+    
 }
 
 .profile {
@@ -107,4 +109,7 @@ p {
 
 .links:hover {
     background-color:dodgerblue;
+}
+#videos {
+    background-color: cadetblue;
 }
